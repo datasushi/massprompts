@@ -5,3 +5,12 @@
 Allows users to mass test prompts for LLMs by using spreadsheets. Currently supported LLMs:
 - ChatGPT
 - Luminous (planned)
+
+# Instructions to use:
+
+```
+git clone https://github.com/datasushi/massprompts.git
+cd massprompts
+npm i
+npm run dev
+```
