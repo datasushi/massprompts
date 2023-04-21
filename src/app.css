@@ -43,6 +43,12 @@ h2 {
   padding: 1rem;
   filter: drop-shadow(0 0 5px);
 }
+.issue {
+  font-size: 0.75rem;
+  padding-left: 1rem;
+  text-decoration: none;
+  color: rgb(255,255,255);
+}
 h3 {
   font-size: 1.5rem;
   border-top: 0px;

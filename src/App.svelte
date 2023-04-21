@@ -102,6 +102,7 @@
 </script>
 
 <h2>🤖 massprompts</h2>
+<a class="issue" href="https://github.com/datasushi/massprompts/issues" target="blank">Report issue</a>
 <div class="inputs">
   <div class="llmcard">
     <h3>ChatGPT</h3>
